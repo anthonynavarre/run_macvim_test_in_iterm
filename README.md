@@ -12,6 +12,8 @@ Current setup - change the path to match where you put the files.
 If the file is a Cucumber file, then all the Scenarios will be in the  
 list of choices along with a default "Run'em All!" that will execute  
 the entire file.  
+  
+![Choosing Available Tests](http://allancraig.net/personal/choose_from_tests.png)
 
 # iTerm
 The iTerm tab and session used is the one that is currently visible.
