@@ -6,7 +6,7 @@ from the file you have highlighted in MacVim.
 
 There are many shortcut managers and I use [Spark](http://www.macupdate.com/app/mac/14352/spark)  
 Current setup - change the path to match where you put the files.  
-![Spark Setup](spark_setup.png "Spark Setup")
+![Spark Setup](http://allancraig.net/personal/spark_setup.png "Spark Setup")
 
 # RSpec and Cucumber Files
 If the file is a Cucumber file, then all the Scenarios will be in the  
